@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asfand Yar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asfand6417&label=Profile%20views&color=0e75b6&style=flat" alt="asfand6417" /> </p>
-
-- 🔭 I’m currently working on **Golf Swing Analysis and Pose Correction**
-
-- 🌱 I’m currently learning **JS libraries**
 
 - 👨‍💻 All of my projects are available at [@asfand6417](@asfand6417)
 
