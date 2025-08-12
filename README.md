@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [@asfand6417](@asfand6417)
 
-- 💬 Ask me about **React, Javascript , Python** , HubSpot CMS & CRM , WordPress Guru , Figma Expert
+- 💬 Ask me about **React, Javascript , Python** 
 
 - 📫 How to reach me **asfand6417@gmail.com**
 
