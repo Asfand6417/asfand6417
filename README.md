@@ -12,8 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/asfanddyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asfanddyar" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/asfanddyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/asfanddyar" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/asfand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/asfand" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://behance.net/asfandyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://behance.net/asfandyar" height="30" width="40" /></a>
+<a href="https://dribbble.com/asfand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/asfand" height="30" width="40" /></a>
+<a href="https://behance.net/asfandyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://behance.net/asfandyar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
